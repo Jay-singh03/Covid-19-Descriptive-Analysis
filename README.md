@@ -55,6 +55,7 @@ COVID-19 data analysis helps in identifying patterns, trends, and impacts across
 * KPI indicators for quick overview
 
 📷 Dashboard Preview
+<img width="896" height="503" alt="image" src="https://github.com/user-attachments/assets/a71a596e-57d8-4d01-8525-14004903b7a9" />
 
 
 🚀 Conclusion
