@@ -1,51 +1,62 @@
-🦠 COVID-19 Global Impact Dashboard
-An interactive and insight-driven COVID-19 Analytics Dashboard built to visualize global pandemic trends across countries and WHO regions. This project transforms raw data into powerful, decision-ready insights using dynamic visuals and KPIs.
+📊 COVID-19 Data Analysis Dashboard (Power BI)
 
-📌 Project Overview
-The COVID-19 Global Impact Dashboard provides a comprehensive snapshot of:
-* 📊 Total Confirmed Cases – 16M+
-* ⚰️ Total Deaths – 654K+
-* 📉 Death Rate – 285.99
-* 💚 Recovery Rate – 57.45%
-The dashboard enables users to analyze regional and country-level performance through intuitive visual storytelling.
+📌 Overview
+This project presents a descriptive analysis of COVID-19 data using Power BI. The goal is to analyze global pandemic trends and visualize key metrics such as confirmed cases, deaths, and recoveries to support data-driven understanding.
 
-🎯 Key Features
-🔹 1. KPI Summary Cards
-* Instant visibility of critical pandemic metrics:
-* Total Confirmed Cases
-* Total Deaths
-* Death Rate
-* Recovery Rate
+COVID-19 data analysis helps in identifying patterns, trends, and impacts across different regions, which is commonly done using statistical and visualization techniques.
 
-🔹 2. Region-Wise Analysis (WHO Regions)
-* Africa
-* Americas
-* Eastern Mediterranean
-* Europe
-* South-East Asia
-* Western Pacific
-* Interactive filtering allows focused regional insights.
+🎯 Objectives
+* Analyze COVID-19 data to identify trends and patterns
+* Visualize key metrics like confirmed cases, deaths, and recoveries
+* Build an interactive dashboard for better insights
+* Understand country-wise and time-based variations
 
-🔹 3. Country-Level Insights
-* Top countries by total deaths
-* Comparative analysis of deaths vs recoveries
-* Drill-down country selection
+🛠 Tools & Technologies
+* Power BI Desktop
+* Power Query Editor (Data Cleaning & Transformation)
+* DAX (Data Analysis Expressions)
 
-🔹 4. Geo-Spatial Visualization
-* Interactive world map displaying confirmed cases
-* Size-based bubble indicators for impact comparison
+📂 Dataset
+* COVID-19 dataset including:
+  * Confirmed Cases
+  * Deaths
+  * Recoveries
+  * Country/Region
+  * Date
 
-🔹 5. Recovery vs Death % Comparison
-* Bar chart comparison across WHO regions
-* Clear identification of high-risk and high-recovery zones
+🔍 Key Steps Performed
+1. Data Cleaning & Transformation
+* Cleaned raw dataset using Power Query Editor
+* Handled missing values and formatted columns
+* Structured data for analysis
 
-📊 Dashboard Insights
-* 🌎 Americas lead in total deaths, contributing over 50% of global fatalities.
-* 🇺🇸 The United States and Brazil show significantly higher death counts compared to other nations.
-* 📈 Some regions display stronger recovery trends despite high confirmed cases, indicating better healthcare response or case management.
+2. Data Visualization
+* Built interactive dashboard using:
+  * Line charts (trend analysis)
+  * Bar charts (country comparison)
+  * Pie charts (distribution analysis)
+  * KPI cards (total cases, deaths, recoveries)
 
-🛠️ Tools & Technologies Used
-* Power BI – Data modeling & visualization
-* DAX – KPI calculations (Death %, Recovery %)
-* Data Cleaning & Transformation
-* Interactive Filters & Drill-Through Reports
+3. Dashboard Development
+* Created dynamic filters (Country, Date)
+* Enabled interactive data exploration
+* Designed user-friendly layout for better insights
+
+📊 Key Insights
+* Identified countries with highest COVID-19 cases
+* Observed growth trends over time
+* Compared recovery and death rates across regions
+* Highlighted global impact of the pandemic
+
+📈 Dashboard Features
+* Interactive slicers for dynamic filtering
+* Time-series analysis of cases
+* Country-wise comparison visuals
+* KPI indicators for quick overview
+
+📷 Dashboard Preview
+
+
+🚀 Conclusion
+
+This project demonstrates how Power BI can transform raw COVID-19 data into meaningful insights using data visualization techniques. It highlights the importance of data analytics in understanding global health trends and supporting decision-making.
