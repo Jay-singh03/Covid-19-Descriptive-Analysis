@@ -23,6 +23,7 @@ COVID-19 data analysis helps in identifying patterns, trends, and impacts across
   * Recoveries
   * Country/Region
   * Date
+  * https://github.com/Jay-singh03/Covid-19-Descriptive-Analysis/blob/main/Covid-19%20Dashboard.pbix
 
 🔍 Key Steps Performed
 1. Data Cleaning & Transformation
